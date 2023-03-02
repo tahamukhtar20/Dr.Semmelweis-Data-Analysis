@@ -19,3 +19,5 @@ The analysis in this project involves:
 ## Conclusion
 
 The results of the analysis indicate that the implementation of handwashing in clinic 1 led to a significant reduction in mortality rates. This project highlights the importance of hand hygiene in healthcare and the impact it can have on patient outcomes.
+
+### Project made with Datacamp
